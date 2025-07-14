@@ -5,6 +5,7 @@ import json
 import math
 import firebase_admin
 from firebase_admin import credentials
+import os
 from firebase_admin import db
 
 raw_env = os.getenv("FIREBASE_SECRET")
