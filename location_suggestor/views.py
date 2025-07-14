@@ -1,15 +1,17 @@
+# Create your views here.
 from django.shortcuts import render
 from django.http import JsonResponse
-# Create your views here.
-
 import json
 import math
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
+raw_env = os.getenv("FIREBASE_SECRET")
+service_account_info = json.loads(raw_env.encode('utf-8').decode('unicode_escape'))
+
 if not firebase_admin._apps:
-  cred = credentials.Certificate("./yaari-dba-firebase-adminsdk-fbsvc-e9275c444b.json")
+  cred = credentials.Certificate(service_account_info)
   firebase_admin.initialize_app(cred, {
       'databaseURL': 'https://yaari-dba-default-rtdb.firebaseio.com/'
   })
