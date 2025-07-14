@@ -67,3 +67,16 @@ def search(req):
         return JsonResponse({"present": True})
 
   return JsonResponse({"present": False})
+
+
+@csrf_exempt
+def register(req):
+  if req.method == "POST":
+    try:
+      payload = json.loads(req.body.decode('utf-8'))
+      data.append(payload)
+      ref.set(data)
+      return JsonResponse({"status": 200})
+    except json.JSONDecodeError:
+      return JsonResponse({"error": "Invalid JSON"}, status=400)
+  return JsonResponse({"status": 400})
