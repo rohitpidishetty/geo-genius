@@ -17,7 +17,11 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from location_suggestor.views import suggest
+from location_suggestor.views import search
+from location_suggestor.views import register
 
 urlpatterns = [
     path('location/', suggest, name='suggest'),
+    path('search/', search, name='search'),
+    path('register/', register, name='register'),
 ]
