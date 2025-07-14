@@ -1,0 +1,11 @@
+{
+  "builds": [
+    {
+      "src": "PlaceSuggestion/wsgi.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "PlaceSuggestion/wsgi.py" }
+  ]
+}
