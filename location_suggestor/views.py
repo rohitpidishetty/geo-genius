@@ -9,9 +9,9 @@ import os
 from firebase_admin import db
 
 raw_env = os.getenv("FIREBASE_SECRET")
-# service_account_info = json.loads(raw_env.encode('utf-8').decode('unicode_escape'))
+service_account_info = json.loads(raw_env.encode('utf-8').decode('unicode_escape'))
 
- service_account_info = json.loads(raw_env)
+ # service_account_info = json.loads(raw_env)
 
 if not firebase_admin._apps:
   cred = credentials.Certificate(service_account_info)
