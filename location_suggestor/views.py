@@ -53,3 +53,17 @@ def suggest(req):
     dispatch_payload = sorted(dispatch_payload, key = lambda a: a['measure'])
 
   return JsonResponse({"suggest": dispatch_payload})
+
+
+@csrf_exempt
+def search(req):
+  if req.method == "GET":
+    lat = req.GET.get('lat')
+    lon = req.GET.get('lon')
+    curr_lat = float(lat)
+    curr_lon = float(lon)
+    for coord in data:
+      if(coord['lat'] == curr_lat and coord['lon'] == curr_lon):
+        return JsonResponse({"present": True})
+
+  return JsonResponse({"present": False})
