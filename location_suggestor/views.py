@@ -7,6 +7,7 @@ import firebase_admin
 from firebase_admin import credentials
 import os
 from firebase_admin import db
+from django.views.decorators.csrf import csrf_exempt
 
 raw_env = os.getenv("FIREBASE_SECRET")
 service_account_info = json.loads(raw_env.encode('utf-8').decode('unicode_escape'))
@@ -24,6 +25,7 @@ if not firebase_admin._apps:
 ref = db.reference('/')
 data = (ref.get())
 
+@csrf_exempt
 def suggest(req):
   if req.method == "GET":
     print(type(data))
