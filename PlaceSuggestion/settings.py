@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-=w#dq6bx6uc0m()fyk8y9tiyh93puo*c20io-0&4==^e6%u6z)
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['.vercel.app'
+                ]
 
 
 # Application definition
@@ -36,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
+    'corsheaders',
     'django.contrib.staticfiles',
 ]
 
@@ -98,6 +100,30 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+
+
+CORS_ALLOW_CREDENTIALS = True
+
+CORS_ALLOWED_ORIGINS = ["https://yaari-jud.web.app", 
+                        "https://yaari-dba.web.app",
+                        #"http://localhost:3000/"
+                       ]
+
+CORS_ALLOW_METHODS = [
+    'GET',
+    'POST',
+    'PUT',
+    'DELETE',
+    'PATCH',
+    'OPTIONS',
+]
+
+CORS_ALLOW_HEADERS = [
+    'content-type',
+    'accept',
+    'Authorization',
+    'X-CSRFToken'
+]
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.2/topics/i18n/
