@@ -28,7 +28,6 @@ data = (ref.get())
 @csrf_exempt
 def suggest(req):
   if req.method == "GET":
-    print(type(data))
     lat = req.GET.get('lat')
     lon = req.GET.get('lon')
     curr_lat = float(lat)
@@ -46,11 +45,14 @@ def suggest(req):
       return distance
 
     dispatch_payload = []
-    for coord in data:
-      dist = haversine_formula(curr_lat, curr_lon, coord['lat'], coord['lon'])
-      if(dist <= 7):
-        coord.update({'distance': f"{round(dist, 1)} km", 'measure': dist})
-        dispatch_payload.append(coord)
-      dispatch_payload = sorted(dispatch_payload, key = lambda a: a['measure'])
+    for key, coord in data.items():
+     if coord is None or 'lat' not in coord or 'lon' not in coord:
+         continue
+     dist = haversine_formula(curr_lat, curr_lon, coord['lat'], coord['lon'])
+     if dist <= 7:
+         coord.update({'distance': f"{round(dist, 1)} km", 'measure': dist})
+         dispatch_payload.append(coord)
+     
+    dispatch_payload = sorted(dispatch_payload, key = lambda a: a['measure'])
 
   return JsonResponse({"suggest": dispatch_payload})
