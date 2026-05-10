@@ -47,7 +47,7 @@ def suggest(req):
     dispatch_payload = []
     for coord in data:
       dist = haversine_formula(curr_lat, curr_lon, coord['lat'], coord['lon'])
-      if(dist <= 700):
+      if(dist <= 7):
         coord.update({'distance': f"{round(dist, 1)} km", 'measure': dist})
         dispatch_payload.append(coord)
     dispatch_payload = sorted(dispatch_payload, key = lambda a: a['measure'])
