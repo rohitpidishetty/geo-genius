@@ -1,0 +1,1042 @@
+[
+  {
+    "description": "17th-century fort offering panoramic views of the Arabian Sea and Vagator Beach, famous from Bollywood film Dil Chahta Hai.",
+    "image_url": "https://www.tourmyindia.com/socialimg/chapora-fort-goa.jpg",
+    "lat": 15.6053,
+    "lon": 73.7186,
+    "name": "Chapora Fort",
+    "type": "historic"
+  },
+  {
+    "description": "Built in 1612, this fort features a lighthouse and offers 360-degree views of the Arabian Sea, blending history and scenic beauty.",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/79/ce/e7/fort-aguada-candolim.jpg?w=1200&h=-1&s=1",
+    "lat": 15.4934,
+    "lon": 73.7757,
+    "name": "Fort Aguada",
+    "type": "historic"
+  },
+  {
+    "description": "One of India's tallest waterfalls cascading from a height of 310 meters, best viewed during the monsoon season.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOdBmgHFJH9bXW_L0u4yMCE9b2rv4i7M3tgQ&s",
+    "lat": 15.3142,
+    "lon": 74.3133,
+    "name": "Dudhsagar Waterfalls",
+    "type": "natural"
+  },
+  {
+    "description": "Narrow road lined with lush coconut trees offering a serene and picturesque setting, featured in the movie Dear Zindagi.",
+    "image_url": "https://imgmediagumlet.lbb.in/media/2022/11/63624b6e5c57793a306ff48a_1667386222137.jpg",
+    "lat": 15.6107,
+    "lon": 73.7689,
+    "name": "Parra Road",
+    "type": "photogenic"
+  },
+  {
+    "description": "Heritage neighborhood with narrow winding streets, colorful Portuguese-style houses, and vibrant murals.",
+    "image_url": "https://assets.simplotel.com/simplotel/image/upload/x_0,y_1332,w_3456,h_1944,r_0,c_crop,q_80,fl_progressive/w_500,f_auto,c_fit/heritage-village-resort-spa-goa/prathamesh-more-EGgxbwAwYQY-unsplash_vq0aqf",
+    "lat": 15.4986,
+    "lon": 73.8267,
+    "name": "Fontainhas (Latin Quarter)",
+    "type": "historic"
+  },
+  {
+    "description": "Ancient fort offering stunning views of the Arabian Sea and secluded beaches, ideal for tranquility and history lovers.",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no64XoLLsqBa48-6dyNz5rFXbF5qraw7iwlKUJx2EZv6AHp76Gnx_6fa0_WwdQLjQ_jd9HfeulwOH3SGfM-ytRo26cLgKzpFKaOZGgLhA0fS0rmxupjUF9jqwDP67r5iKA-WGiF=s680-w680-h510-rw",
+    "lat": 15.0446,
+    "lon": 73.7799,
+    "name": "Cabo de Rama Fort",
+    "type": "historic"
+  },
+  {
+    "description": "Historic fortress known for its acoustic system and grand architecture",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nq9nR6HN-Nw_DdJKBBQbD1ROA-1B5xzeS_Q6glsx_6ZpLRVuP6hR49AoaZNVAG3_Eeoak-YAX7Gts9RyRYOKd5BaVqT6dCpiqLreujCutF9HGnO4LJmuVMk2xR1vYCzXg-cyirbcA=w270-h312-n-k-no",
+    "lat": 17.3833,
+    "lon": 78.4011,
+    "name": "Golconda Fort",
+    "type": "historic"
+  },
+  {
+    "description": "Large man-made lake famous for the Buddha statue in the middle",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0rTJCHwfI2B3EeUBKP6MYaLrKCw0Qyo0taw&s",
+    "lat": 17.4239,
+    "lon": 78.4737,
+    "name": "Hussain Sagar Lake",
+    "type": "lake"
+  },
+  {
+    "description": "One of the largest museums in India with a diverse art collection",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVDleS3mhqjcgZmRb6BTkF1CJyjlkWSFtl5Q&s",
+    "lat": 17.385,
+    "lon": 78.4799,
+    "name": "Salar Jung Museum",
+    "type": "museum"
+  },
+  {
+    "description": "World\\'s largest integrated film city and entertainment destination",
+    "image_url": "https://assets.simplotel.com/simplotel/image/upload/x_0,y_124,w_2658,h_1496,r_0/q_80,w_900,h_506,dpr_1,f_auto,fl_progressive,c_limit/ramoji-studio-tour/Ramoji_Film_City_Signage_vb9v0p",
+    "lat": 17.2543,
+    "lon": 78.5905,
+    "name": "Ramoji Film City",
+    "type": "entertainment"
+  },
+  {
+    "description": "Marble Hindu temple dedicated to Lord Venkateswara",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Birla_Mandir%2C_Hyderabad.png/960px-Birla_Mandir%2C_Hyderabad.png",
+    "lat": 17.4061,
+    "lon": 78.4694,
+    "name": "Birla Mandir",
+    "type": "temple"
+  },
+  {
+    "description": "Historic palace of the Nizams with stunning architecture",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkYjzBFKTJimwyOcU0Vi10bQFoAJZFiVMO9w&s",
+    "lat": 17.3615,
+    "lon": 78.4711,
+    "name": "Chowmahalla Palace",
+    "type": "historic"
+  },
+  {
+    "description": "Large zoo with diverse animal species and safari rides",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Hyderabad_zoo.jpg",
+    "lat": 17.3782,
+    "lon": 78.4854,
+    "name": "Nehru Zoological Park",
+    "type": "zoo"
+  },
+  {
+    "description": "Famous traditional market known for bangles and pearls",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Laad_Bazaar.jpg",
+    "lat": 17.36,
+    "lon": 78.474,
+    "name": "Laad Bazaar",
+    "type": "market"
+  },
+  {
+    "description": "Scenic lake popular for picnics and birdwatching",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx1RpcQlsw6D56L_ZjElHo-S6pvT2fJY9Pxw&s",
+    "lat": 17.6356,
+    "lon": 78.5986,
+    "name": "Shamirpet Lake",
+    "type": "lake"
+  },
+  {
+    "description": "Urban forest reserve with walking trails and rich biodiversity",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQZi8eR_ElWqgmKq-5ezFjS5HAn0jL1Mj79g&s",
+    "lat": 17.4002,
+    "lon": 78.4553,
+    "name": "KBR National Park",
+    "type": "park"
+  },
+  {
+    "description": "Lush botanical garden showcasing varied flora",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTFJJTC3UmLeRYvvhjHF_29Wp5-lI8vTYoCA&s",
+    "lat": 17.4131,
+    "lon": 78.5526,
+    "name": "Nehru Botanical Gardens",
+    "type": "garden"
+  },
+  {
+    "description": "Massive monolithic Buddha statue on an island in Hussain Sagar Lake",
+    "image_url": "https://www.tsemrinpoche.com/wp-content/uploads/2013/01/buddha3.jpg",
+    "lat": 17.423,
+    "lon": 78.476,
+    "name": "Hussain Sagar Buddha Statue",
+    "type": "monument"
+  },
+  {
+    "description": "Popular reservoir and picnic spot surrounded by greenery",
+    "image_url": "https://www.trawell.in/admin/images/upload/135551245Hyderabad_Gandipet_Main.jpg",
+    "lat": 17.3556,
+    "lon": 78.3626,
+    "name": "Osman Sagar (Gandipet Lake)",
+    "type": "lake"
+  },
+  {
+    "description": "Unique museum displaying quirky and custom cars",
+    "image_url": "https://www.guinnessworldrecords.com/news/2024/9/images/cars-of-the-museum.jpg",
+    "lat": 17.473,
+    "lon": 78.4125,
+    "name": "Sudha Cars Museum",
+    "type": "museum"
+  },
+  {
+    "description": "Popular water theme park by Hussain Sagar lake",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EZtUPpnW8-td0XL-vO3hM4GoLCf-B_SAnQ&s",
+    "lat": 17.4289,
+    "lon": 78.4419,
+    "name": "Jalavihar Water Park",
+    "type": "entertainment"
+  },
+  {
+    "description": "Famous botanical garden with a historic glasshouse and diverse flora",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BLrCXmZVLNvOr4j6T76FT12AeHBi8KgeTw&s",
+    "lat": 12.9507,
+    "lon": 77.5848,
+    "name": "Lalbagh Botanical Garden",
+    "type": "garden"
+  },
+  {
+    "description": "Palatial residence inspired by Windsor Castle with Tudor-style architecture",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqWzTow8tjFM94k0YCiTpach00ZdmmJeJF4LUVjPg3_9_5SKlmpzR-skJrVZ0WFs4ACpMz859vdSpp9nqdrlFdvhMPsjkdTncbH1P3i4jfMmn9-ium2sNSrISf-Xa8aOYrWQ1fh=w270-h312-n-k-no",
+    "lat": 12.998,
+    "lon": 77.5928,
+    "name": "Bangalore Palace",
+    "type": "historic"
+  },
+  {
+    "description": "Large urban park with walking paths, trees, and statues",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBRjr31ydgLzImzxYK4sH6840fwaByRZiEg&s",
+    "lat": 12.9763,
+    "lon": 77.5929,
+    "name": "Cubbon Park",
+    "type": "park"
+  },
+  {
+    "description": "Iconic legislative building known for its grand architecture",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0x_1z_mOB_nJ8KMQ98jNzy__3aImTTzYzA&s",
+    "lat": 12.9796,
+    "lon": 77.591,
+    "name": "Vidhana Soudha",
+    "type": "historic"
+  },
+  {
+    "description": "Large Hare Krishna temple known for its stunning architecture and spiritual ambiance",
+    "image_url": "https://phool.co/cdn/shop/articles/172017443519492.jpg?v=1726044195",
+    "lat": 13.0095,
+    "lon": 77.5511,
+    "name": "ISKCON Temple Bangalore",
+    "type": "temple"
+  },
+  {
+    "description": "Scenic hill station near Bangalore, popular for sunrise views and trekking",
+    "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/1-nandi-hills-bangalore-karnataka-blog-ntr-exp-cit-pop?qlt=82&ts=1742169694328",
+    "lat": 13.3703,
+    "lon": 77.6833,
+    "name": "Nandi Hills",
+    "type": "nature"
+  },
+  {
+    "description": "Wildlife sanctuary with safaris and a butterfly park",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78QDRYySfWngBFj59GKtvxYRqmQvfi0An-A&s",
+    "lat": 12.8,
+    "lon": 77.5777,
+    "name": "Bannerghatta National Park",
+    "type": "park"
+  },
+  {
+    "description": "Large lake with boating facilities and scenic walking paths",
+    "image_url": "https://www.arup.com/globalassets/images/projects/u/ulsoor-lake/ulsoor-lake-hero.jpg?width=1840&height=1035&quality=80",
+    "lat": 12.9814,
+    "lon": 77.6185,
+    "name": "Ulsoor Lake",
+    "type": "lake"
+  },
+  {
+    "description": "Bustling shopping street popular for clothes, jewelry, and street food",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmOaiI819XDVokw6WoJ5wmBtWaAftJ4l-3BQ&s",
+    "lat": 12.9738,
+    "lon": 77.6054,
+    "name": "Commercial Street",
+    "type": "market"
+  },
+  {
+    "description": "Historic summer residence of Tipu Sultan with Indo-Islamic architecture",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRxSx2KoeempE0ShfUifoWznU4Yp8sQoYlw&s",
+    "lat": 12.9731,
+    "lon": 77.5811,
+    "name": "Tipu Sultan's Summer Palace",
+    "type": "historic"
+  },
+  {
+    "description": "Popular amusement and water park with thrilling rides",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RVoGOpv_SnNmeD0lcnNlKyD7YXsL1bGO5g&s",
+    "lat": 12.8148,
+    "lon": 77.5095,
+    "name": "Wonderla Amusement Park",
+    "type": "entertainment"
+  },
+  {
+    "description": "Famous hilltop temple dedicated to Lord Venkateswara",
+    "image_url": "https://substackcdn.com/image/fetch/$s_!Hx7x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dbd7dda-143d-456b-862b-5a316345b745_2000x998.jpeg",
+    "lat": 13.6833,
+    "lon": 79.35,
+    "name": "Tirupati Balaji Temple",
+    "type": "temple"
+  },
+  {
+    "description": "Scenic hill station with coffee plantations and waterfalls",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-oX_wL2YQ3DuMH9dQ1fjmu2FdInEyHc8byA&s",
+    "lat": 18.3333,
+    "lon": 82.8333,
+    "name": "Araku Valley",
+    "type": "nature"
+  },
+  {
+    "description": "Natural limestone caves with stalactites and stalagmites",
+    "image_url": "https://i0.wp.com/weekendyaari.in/wp-content/uploads/2024/09/caves-1.jpg?resize=800%2C530&ssl=1",
+    "lat": 18.3667,
+    "lon": 82.75,
+    "name": "Borra Caves",
+    "type": "nature"
+  },
+  {
+    "description": "Ancient rock-cut caves with beautiful sculptures and architecture",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np32LPdtsV432geWXtu9X29kh47aNDyhzrtdGSK8svaEUThuCiglwRDMxf5igwdn_04zsFqkkrpQ0vDAXzVYiJAMh5daJAvISNqTXaamRKnsr17Gxd7pRLLFUxkdk9Lzn-NM8H0=s680-w680-h510-rw",
+    "lat": 16.4482,
+    "lon": 80.6302,
+    "name": "Undavalli Caves",
+    "type": "historic"
+  },
+  {
+    "description": "Historic fort famous for its traditional wooden toys",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTR3Yy6XgoYjjrdOflQ6ZcPEG0TDXAC2dmsQ&s",
+    "lat": 16.6333,
+    "lon": 80.7333,
+    "name": "Kondapalli Fort",
+    "type": "historic"
+  },
+  {
+    "description": "Iconic bridge over Godavari river known as a major engineering feat",
+    "image_url": "https://live.staticflickr.com/2835/9609166791_1acf0ba31a_b.jpg",
+    "lat": 16.9833,
+    "lon": 81.7833,
+    "name": "Rajahmundry Godavari Bridge",
+    "type": "landmark"
+  },
+  {
+    "description": "Protected forest area with rich biodiversity",
+    "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/sri-venkateswara-national-park-tirupati-andhra-pradesh-1-attr-hero?qlt=82&ts=1742150197001",
+    "lat": 13.6167,
+    "lon": 79.3833,
+    "name": "Sri Venkateswara National Park",
+    "type": "park"
+  },
+  {
+    "description": "Scenic forested area with waterfalls and trekking trails",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/fe/f8/29/the-beautiful-mountain.jpg?w=900&h=500&s=1",
+    "lat": 17.2235,
+    "lon": 81.94,
+    "name": "Maredumilli",
+    "type": "nature"
+  },
+  {
+    "description": "Popular beach destination with golden sands and promenades",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeERWrd7BPTspseGdEwudojl-Xl8hUXVLHug&s",
+    "lat": 17.6868,
+    "lon": 83.2185,
+    "name": "Visakhapatnam Beach",
+    "type": "beach"
+  },
+  {
+    "description": "Ancient temple dedicated to Lord Narasimha with unique architecture",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOqKlZu9pI6x8DCChsTuhid3FnWcC5TDzIrA&s",
+    "lat": 17.74,
+    "lon": 83.2,
+    "name": "Simhachalam Temple",
+    "type": "temple"
+  },
+  {
+    "description": "Famous botanical garden with a historic glasshouse and diverse flora",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BLrCXmZVLNvOr4j6T76FT12AeHBi8KgeTw&s",
+    "lat": 12.9507,
+    "lon": 77.5848,
+    "name": "Lalbagh Botanical Garden",
+    "type": "garden"
+  },
+  {
+    "description": "Palatial residence inspired by Windsor Castle with Tudor-style architecture",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/01/e4/9c/more-far.jpg?w=1200&h=-1&s=1",
+    "lat": 12.998,
+    "lon": 77.5928,
+    "name": "Bangalore Palace",
+    "type": "historic"
+  },
+  {
+    "description": "Scenic hill station near Bangalore, popular for sunrise views and trekking",
+    "image_url": "https://s7ap1.scene7.com/is/image/incredibleindia/nandi-hills-bangalore-karnataka-1-attr-hero?qlt=82&ts=1742171255239",
+    "lat": 13.3703,
+    "lon": 77.6833,
+    "name": "Nandi Hills",
+    "type": "nature"
+  },
+  {
+    "description": "Historic royal palace known for its grand architecture and light shows",
+    "image_url": "https://images.lifestyleasia.com/wp-content/uploads/sites/7/2023/07/25152833/Mysore-Palace-FI.jpg?tr=w-1200,h-900",
+    "lat": 12.3051,
+    "lon": 76.6551,
+    "name": "Mysore Palace",
+    "type": "historic"
+  },
+  {
+    "description": "Beautiful hill station known for coffee plantations and waterfalls",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/78/2c/57/abbey-falls.jpg?w=500&h=500&s=1",
+    "lat": 12.3375,
+    "lon": 75.8069,
+    "name": "Coorg (Kodagu)",
+    "type": "nature"
+  },
+  {
+    "description": "UNESCO World Heritage site with ruins of the Vijayanagara Empire",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fIqPvzLZyxAD0d5Xnl3ldaRzh9snRfKq7A&s",
+    "lat": 15.335,
+    "lon": 76.46,
+    "name": "Hampi",
+    "type": "historic"
+  },
+  {
+    "description": "Popular wildlife reserve and national park",
+    "image_url": "https://karnatakatourism.org/wp-content/uploads/2020/11/bandipur-national-park.jpg",
+    "lat": 11.796,
+    "lon": 76.437,
+    "name": "Bandipur National Park",
+    "type": "park"
+  },
+  {
+    "description": "Hill station famous for coffee estates and trekking",
+    "image_url": "https://xploretheearth.com/wp-content/uploads/2024/08/chikmagalur-travel-guide_03-1024x818.webp",
+    "lat": 13.3186,
+    "lon": 75.7747,
+    "name": "Chikmagalur",
+    "type": "nature"
+  },
+  {
+    "description": "One of the highest waterfalls in India, located on the Sharavathi river",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoFhhgboinTdB2P6SRZUeYk2abLVrFiRPdOQ&s",
+    "lat": 14.23,
+    "lon": 74.796,
+    "name": "Jog Falls",
+    "type": "nature"
+  },
+  {
+    "description": "Famous for rocky hills and as the filming location of the Bollywood movie 'Sholay'",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-hkkXis-qfhy7MwyCNLIWDKFYhCs25eXHg&s",
+    "lat": 12.7197,
+    "lon": 77.2933,
+    "name": "Ramanagara",
+    "type": "nature"
+  },
+  {
+    "description": "Iconic arch monument on the waterfront, symbol of Mumbai",
+    "image_url": "https://media.cntraveler.com/photos/598202d5b7a86962e8e27c47/master/pass/Gateway-Of-India-GettyImages-521926710.jpg",
+    "lat": 18.9218,
+    "lon": 72.8347,
+    "name": "Gateway of India",
+    "type": "historic"
+  },
+  {
+    "description": "Famous rock-cut Buddhist cave monuments with ancient murals",
+    "image_url": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/gvl3vc6jxsfnskydjoxo/Ajanta%20Caves%20Fast-Track%20Ticket%20in%20Aurangabad.jpg",
+    "lat": 20.5523,
+    "lon": 75.7033,
+    "name": "Ajanta Caves",
+    "type": "historic"
+  },
+  {
+    "description": "UNESCO World Heritage site with rock-cut temples and monasteries",
+    "image_url": "https://lp-cms-production.imgix.net/2019-06/GettyImages-470586360_super.jpg?fit=crop&ar=1%3A1&w=1200&auto=format&q=75",
+    "lat": 20.0269,
+    "lon": 75.1797,
+    "name": "Ellora Caves",
+    "type": "historic"
+  },
+  {
+    "description": "Popular Hindu temple dedicated to Lord Ganesha in Mumbai",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMOhC7jCnN6-12RCbTb5EGKdM6O0Yd1nYSzQ&s",
+    "lat": 19.0176,
+    "lon": 72.8308,
+    "name": "Siddhivinayak Temple",
+    "type": "temple"
+  },
+  {
+    "description": "Historic fortification in Pune, famous for its architecture and history",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/44/78/57/shaniwarwada.jpg?w=1200&h=1200&s=1",
+    "lat": 18.5196,
+    "lon": 73.8553,
+    "name": "Shaniwar Wada",
+    "type": "historic"
+  },
+  {
+    "description": "UNESCO World Heritage railway station in Mumbai with Victorian Gothic architecture",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfRYq-ojYrbtfVtk3aG4xBdtuWcD1ZbuaQw&s",
+    "lat": 18.9402,
+    "lon": 72.8356,
+    "name": "Chhatrapati Shivaji Maharaj Terminus",
+    "type": "historic"
+  },
+  {
+    "description": "Popular winery located in Nashik, known for wine tasting tours",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/3f/8e/3d/a-view-from-the-vineyards.jpg?w=1200&h=-1&s=1",
+    "lat": 19.0464,
+    "lon": 73.8577,
+    "name": "Sula Vineyards",
+    "type": "nature"
+  },
+  {
+    "description": "Hill station known for its viewpoints and eco-friendly environment",
+    "image_url": "https://www.india.com/wp-content/uploads/2019/07/Roads-leading-up-to-the-gorgeous-Matheran.-.jpg",
+    "lat": 18.982,
+    "lon": 73.27,
+    "name": "Matheran",
+    "type": "nature"
+  },
+  {
+    "description": "UNESCO World Heritage site with rock-cut sculptures on Elephanta Island",
+    "image_url": "https://assets.cntraveller.in/photos/60ba04ee1fa22668f02596f6/16:9/w_1920,h_1080,c_limit/elephantalead.jpg",
+    "lat": 18.9634,
+    "lon": 72.9313,
+    "name": "Elephanta Caves",
+    "type": "historic"
+  },
+  {
+    "description": "Scenic seaside promenade also known as Queen\\'s Necklace in Mumbai",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/40/ce/c3/mumbai-marine-drive-along.jpg?w=1200&h=1200&s=1",
+    "lat": 18.943,
+    "lon": 72.8236,
+    "name": "Marine Drive",
+    "type": "scenic"
+  },
+  {
+    "description": "Famous temple known for its colorful gopurams and architecture in Madurai",
+    "image_url": "https://sanatanajourney.com/wp-content/uploads/2025/03/Madurai-Meenakshi-Amman-Temple-Features.jpg",
+    "lat": 9.9196,
+    "lon": 78.1192,
+    "name": "Meenakshi Amman Temple",
+    "type": "temple"
+  },
+  {
+    "description": "One of the longest urban beaches in the world located in Chennai",
+    "image_url": "https://5.imimg.com/data5/SELLER/Default/2021/11/QH/SB/RD/16810/marina-beach-chennai.jpg",
+    "lat": 13.0452,
+    "lon": 80.282,
+    "name": "Marina Beach",
+    "type": "beach"
+  },
+  {
+    "description": "Popular garden in the hill station of Ooty with exotic plants",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/a3/0a/4e/beautiful-botanical-garden.jpg?w=800&h=500&s=1",
+    "lat": 11.4118,
+    "lon": 76.6934,
+    "name": "Ooty Botanical Gardens",
+    "type": "garden"
+  },
+  {
+    "description": "UNESCO World Heritage Chola dynasty temple in Thanjavur",
+    "image_url": "https://cdn.britannica.com/66/250066-050-B34A9532/Brihadishvara-Temple-Thanjavur-Tamil-Nadu-India.jpg",
+    "lat": 10.782,
+    "lon": 79.1319,
+    "name": "Brihadeeswarar Temple",
+    "type": "temple"
+  },
+  {
+    "description": "Man-made lake surrounded by hills in Kodaikanal",
+    "image_url": "https://www.intermiles.com/iwov-resources/images/blog/December2021/3-stunning-lakes-in-kodaikanal/cover580x580.jpg",
+    "lat": 10.2381,
+    "lon": 77.489,
+    "name": "Kodaikanal Lake",
+    "type": "lake"
+  },
+  {
+    "description": "Ancient group of temples and monuments by the sea",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npVhHJph9rRWA2t2P9HAHQDwb9jHPmrWmGXQaSyQtv2WHLj8etJOZa07ZydHlzjjQVCKKVqPZzPdCFH3csXUR7p4i9oqiFfuE2KmvHDzWw4810KOd-b0y_663Jb1NqHgD7tbiBGKQ=w270-h312-n-k-no",
+    "lat": 12.6133,
+    "lon": 80.1933,
+    "name": "Mahabalipuram Shore Temple",
+    "type": "historic"
+  },
+  {
+    "description": "Small national park located within Chennai city",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/ae/d6/9a/peacock-showing-up-it.jpg?w=1200&h=-1&s=1",
+    "lat": 13.0096,
+    "lon": 80.2424,
+    "name": "Guindy National Park",
+    "type": "park"
+  },
+  {
+    "description": "Famous temple with longest corridor in India located on Rameswaram island",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmqB1K3WVN3P4DUmzivJMbVCgJclN82qvL0R6a4zmJzAoPLViCPMQ9siaF3kC3Iz5hEco&usqp=CAU",
+    "lat": 9.2875,
+    "lon": 79.3125,
+    "name": "Rameswaram Ramanathaswamy Temple",
+    "type": "temple"
+  },
+  {
+    "description": "Historic palace with museum and art galleries in Thanjavur",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/b7/26/f7/durbar-hall.jpg?w=1200&h=1200&s=1",
+    "lat": 10.7866,
+    "lon": 79.1395,
+    "name": "Thanjavur Maratha Palace",
+    "type": "historic"
+  },
+  {
+    "description": "Hill station known for scenic viewpoints and coffee plantations",
+    "image_url": "https://mangocalltaxi.com/wp-content/uploads/2023/12/yercaud-930x620.webp",
+    "lat": 11.7816,
+    "lon": 78.2386,
+    "name": "Yercaud",
+    "type": "nature"
+  },
+  {
+    "description": "Serene network of lagoons and lakes famous for houseboat cruises",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5e/59/d4/alleppey-backwater-tour.jpg?w=800&h=-1&s=1",
+    "lat": 9.4981,
+    "lon": 76.3388,
+    "name": "Alleppey Backwaters",
+    "type": "nature"
+  },
+  {
+    "description": "Hill station known for tea plantations and misty landscapes",
+    "image_url": "https://content.r9cdn.net/rimg/dimg/a9/dd/d6b29241-city-44818-166a7453734.jpg?width=1366&height=768&xhint=1600&yhint=1049&crop=true",
+    "lat": 10.0892,
+    "lon": 77.0595,
+    "name": "Munnar",
+    "type": "nature"
+  },
+  {
+    "description": "Historic area with colonial architecture and vibrant culture",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/a5/55/7d/forte-kochi.jpg?w=900&h=-1&s=1",
+    "lat": 9.9656,
+    "lon": 76.2417,
+    "name": "Fort Kochi",
+    "type": "historic"
+  },
+  {
+    "description": "Biodiverse wildlife sanctuary with rich flora and fauna",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5nPgRGqbJ5_X0VybUROPD45yx470FHZXEQ&s",
+    "lat": 11.6847,
+    "lon": 76.107,
+    "name": "Wayanad Wildlife Sanctuary",
+    "type": "park"
+  },
+  {
+    "description": "Spectacular waterfall known as the 'Niagara of India'",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/52/b3/8e/caption.jpg?w=800&h=800&s=1",
+    "lat": 10.2829,
+    "lon": 76.577,
+    "name": "Athirappilly Waterfalls",
+    "type": "nature"
+  },
+  {
+    "description": "Cliff-lined beach known for scenic views and spiritual vibe",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlE6qhbT1v0PgLfk3JxmubgW5LBUADH-7rAQ&s",
+    "lat": 8.7344,
+    "lon": 76.7111,
+    "name": "Varkala Beach",
+    "type": "beach"
+  },
+  {
+    "description": "Ancient temple famous for its intricate architecture and treasures",
+    "image_url": "https://www.remotelands.com/travelogues/app/uploads/2020/02/Padmanabhaswamy-1.jpg",
+    "lat": 8.4853,
+    "lon": 76.947,
+    "name": "Padmanabhaswamy Temple",
+    "type": "temple"
+  },
+  {
+    "description": "Bird sanctuary on the banks of Vembanad Lake, popular for migratory birds",
+    "image_url": "https://kumarakomhouseboatclub.com/wp-content/uploads/sites/2/2018/08/kumarakom-bird-sanctuary-birds.jpg",
+    "lat": 9.6209,
+    "lon": 76.4382,
+    "name": "Kumarakom Bird Sanctuary",
+    "type": "park"
+  },
+  {
+    "description": "Popular beach with calm waters near Kochi",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SCKBiugBEO2QVtUT1bbUJxSwbQuUO-U5_A&s",
+    "lat": 10.1434,
+    "lon": 76.1547,
+    "name": "Cherai Beach",
+    "type": "beach"
+  },
+  {
+    "description": "One of the oldest zoos in India with diverse animals",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/15/72/d0/thiruvananthapuram-zoo.jpg?w=1200&h=1200&s=1",
+    "lat": 8.4892,
+    "lon": 76.9498,
+    "name": "Thiruvananthapuram Zoo",
+    "type": "zoo"
+  },
+  {
+    "description": "Historic mission and site of the famous 1836 battle in San Antonio",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Alamo_pano.jpg/960px-Alamo_pano.jpg",
+    "lat": 29.4259,
+    "lon": -98.4861,
+    "name": "The Alamo",
+    "type": "historic"
+  },
+  {
+    "description": "Official visitor center of NASA\\'s Johnson Space Center",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr9vev_Dt5a2e7Xt3rg0rWB90yCFrAhSf1N9XJosjCcEW4qel9sTzft2U2pOlozfmwhYwuY_3YxzKA3j8TTGLzQGmRwCKtUtpdAE6ZazdzEqkR7WBlGOWD986krCrswmG0nAWsQOA=s680-w680-h510-rw",
+    "lat": 29.5502,
+    "lon": -95.097,
+    "name": "Space Center Houston",
+    "type": "museum"
+  },
+  {
+    "description": "Vast desert and mountain park offering hiking, camping, and scenic views",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCHFwUNwIzAxGBE4dxoKLLkzII8G5ULLi67-Yx5Np2oFambepLsRlDBrcAA6zQLFo5SA_flg3rb_7edVttfZvrDvc_1yCQdRDC3A3qPWBy-Fm4Ko0Y0uhZF-vD0_VcVOwwn8jF=s680-w680-h510-rw",
+    "lat": 29.1275,
+    "lon": -103.2425,
+    "name": "Big Bend National Park",
+    "type": "park"
+  },
+  {
+    "description": "Scenic network of walkways along the San Antonio River lined with shops and restaurants",
+    "image_url": "https://assets.simpleviewinc.com/sv-sanantonio/image/upload/c_limit,h_1200,q_75,w_1200/v1/cms_resources/cms_resources/cms_resources/cms_resources/clients/sanantoniotx/River_Walk_Downtown_Go_Rio_Real_True_2022_ffcd4387-bc34-4f8a-b640-d5904243806d.jpg",
+    "lat": 29.4239,
+    "lon": -98.4842,
+    "name": "San Antonio River Walk",
+    "type": "scenic"
+  },
+  {
+    "description": "Major art museum featuring global collections and exhibitions",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqZ7stirb-yDucM_Xpd1f40jsbGmtECgTzkPBchXQCopf4C7vySTO9eJDF8_KIMJvrhngoYjoLtqtw5pefwWIU3pJtsWQU0D_iq6RqkCjb9JjcEkhyZpB8B4Ptg7T0VABzjlx7y=s680-w680-h510-rw",
+    "lat": 32.7876,
+    "lon": -96.8009,
+    "name": "Dallas Museum of Art",
+    "type": "museum"
+  },
+  {
+    "description": "Historic government building in Austin with beautiful architecture and grounds",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojyMZL0a7lDsQtRZl50AOSGJZxFmzZ3vcZ84eCPY4C7m9mv8RVnwT8pNIuUrrJMj8lHGDRy1bFBrBwZoJL5Kr2tHc2YS5AmVzy7RFoLtVg5WO-kbsK5z6_4jpMO9ylycX5Exsocw=s680-w680-h510-rw",
+    "lat": 30.2747,
+    "lon": -97.7403,
+    "name": "Texas State Capitol",
+    "type": "historic"
+  },
+  {
+    "description": "Popular museum with extensive exhibits in natural science and space",
+    "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/houston/HMNS_tri_9C5DD83B-9F6C-CB04-D312BB70675EC856-9c5dd1e3b056f90_9c5e49ea-9eb5-d7fc-b78ea085b1db66f2.jpg",
+    "lat": 29.7219,
+    "lon": -95.3881,
+    "name": "Houston Museum of Natural Science",
+    "type": "museum"
+  },
+  {
+    "description": "Popular beach destination known for water sports and wildlife",
+    "image_url": "https://explore-mag.com/wp-content/uploads/2024/02/Aerial.png",
+    "lat": 26.109,
+    "lon": -97.1611,
+    "name": "South Padre Island",
+    "type": "beach"
+  },
+  {
+    "description": "Large urban park in Austin offering trails, gardens, and outdoor events",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqPqkKV9WLeqZcK0-oK9EHM0Dc8p8YK6Wf6XQwWvgpjaQX8-u5CCK-nrrOK_CHs_XDh57DWFVUSBn5rzxJUYqBxHbw9zR2zdkzI3Mp687BV78FY4_1g7MuJ_KWOzj96_Pwi7jY=s680-w680-h510-rw",
+    "lat": 30.2669,
+    "lon": -97.7725,
+    "name": "Zilker Metropolitan Park",
+    "type": "park"
+  },
+  {
+    "description": "Historic district showcasing cowboy culture with rodeos and western shops",
+    "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,q_75,w_1200/v1/crm/fortworth/Stockyards-National-Historic-District_a0c275fd-5056-a348-3a4559e251380914.jpg",
+    "lat": 32.7847,
+    "lon": -97.3315,
+    "name": "Fort Worth Stockyards",
+    "type": "historic"
+  },
+  {
+    "description": "Iconic beach known for its lively nightlife and Art Deco architecture",
+    "image_url": "https://visitsouthbeachonline.com/wp-content/uploads/2022/12/qtq80-swNLQV.jpeg",
+    "lat": 25.7907,
+    "lon": -80.13,
+    "name": "South Beach",
+    "type": "beach"
+  },
+  {
+    "description": "Historic estate with beautiful Italian Renaissance gardens and architecture",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npMxzJxbReLnWVRSdDYwmF9wjKuqdQuSo-lcZ0P5SGnf1MVhQB_ve0ZyTxnEYb5cOIsaaHYyekSq-fVO72DE_OzylIl137n7EjTLAHDzBEUGDpAi8dw4L9fXCP1NwXXABvt2UdX=s680-w680-h510-rw",
+    "lat": 25.7459,
+    "lon": -80.2102,
+    "name": "Vizcaya Museum and Gardens",
+    "type": "museum"
+  },
+  {
+    "description": "Outdoor museum showcasing large-scale murals by world-renowned street artists",
+    "image_url": "https://thewynwoodwalls.com/wp-content/uploads/2023/12/NK-231203-WW-3832-copy-2-2048x1364.jpg",
+    "lat": 25.8006,
+    "lon": -80.1994,
+    "name": "Wynwood Walls",
+    "type": "art"
+  },
+  {
+    "description": "Marine park offering dolphin shows, sea turtles, and other aquatic exhibits",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noIrrUi1vpZqyVoFAes4keyE6AD3PkzeY564THjSQ43i0eoCCvNmUrxBP82bskELC9bdh1CqsKn3XkNtUMtZWS80sR5Rfm-z5TbQz2Uxyj2Hof6cIZuLSv4Rg3_jyiJDg5G38sJ=s680-w680-h510-rw",
+    "lat": 25.7364,
+    "lon": -80.1644,
+    "name": "Miami Seaquarium",
+    "type": "entertainment"
+  },
+  {
+    "description": "Vibrant Cuban-American neighborhood known for its culture, food, and music",
+    "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/visitflorida/Calle_Ocho_Patrick_Farrell_f91716bc-4c61-4ce3-85fa-3f6cbe153414.jpg",
+    "lat": 25.769,
+    "lon": -80.2195,
+    "name": "Little Havana",
+    "type": "cultural"
+  },
+  {
+    "description": "Extensive botanical garden with tropical plants and butterflies",
+    "image_url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fit,w_1440,h_900/crm/miamifl/fairchild-tropical-botanic-garden-1440x9000-4d7c0a225056a36_4d7c0b40-5056-a36a-0bd3fb5610f1220b.jpg",
+    "lat": 25.6633,
+    "lon": -80.2737,
+    "name": "Fairchild Tropical Botanic Garden",
+    "type": "garden"
+  },
+  {
+    "description": "Urban park located downtown offering scenic views of Biscayne Bay",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bayfront_Plaza_2020.jpg",
+    "lat": 25.7743,
+    "lon": -80.1897,
+    "name": "Bayfront Park",
+    "type": "park"
+  },
+  {
+    "description": "Major sports and entertainment arena, home to the Miami Heat",
+    "image_url": "https://www.langan.com/wp-content/uploads/2017/03/American-Airlines-Arena-1.jpg",
+    "lat": 25.7814,
+    "lon": -80.187,
+    "name": "American Airlines Arena",
+    "type": "entertainment"
+  },
+  {
+    "description": "Mystery stone structure built by a single man, tourist curiosity",
+    "image_url": "data:image/jpeg;base64,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",
+    "lat": 25.545,
+    "lon": -80.3653,
+    "name": "Coral Castle",
+    "type": "historic"
+  },
+  {
+    "description": "Historic public swimming pool built from a coral rock quarry",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nosyxorW-f0a9WWn_XK4D4rIoUpGt6RYwup2WTW1yagtm4gqArqyYf3Jly2cdNgI76Zqw-X6ySV55tDRz9qBFIjMYF45DhtAVZPpt_YoX3VXwecL2GAhciwg_z1wWVGN-sYyt3s=s680-w680-h510-rw",
+    "lat": 25.7747,
+    "lon": -80.279,
+    "name": "Venetian Pool",
+    "type": "recreation"
+  },
+  {
+    "description": "Museum and cultural center dedicated to rock 'n' roll legend Buddy Holly",
+    "image_url": "https://dsai.ca/wp-content/uploads/Buddy-Holly-Hall-Lobby-Staircase-1.jpg",
+    "lat": 33.5775,
+    "lon": -101.8489,
+    "name": "Buddy Holly Center",
+    "type": "museum"
+  },
+  {
+    "description": "Beautifully landscaped university campus with Spanish Renaissance architecture",
+    "image_url": "https://www.usnews.com/dims4/USNEWS/41eea5d/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F8a%2F8b%2Fbb942c28404ab57807d34414e009%2Fphoto-1.jpg",
+    "lat": 33.5843,
+    "lon": -101.8783,
+    "name": "Texas Tech University Campus",
+    "type": "university"
+  },
+  {
+    "description": "Outdoor museum showcasing historic ranching buildings and artifacts",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npLEnrlUmQczbUhfi8sDqRshRsduH3VjBJ-2_p3knqt7nqlNjj4ZsqZdJMJrMkHjD8Vg7TZyM7gvjdqUidnJWqWCRAX0Tn7hr4Xyn4e2z4NR625Il9ZMFiMWB2qFoVEPbz7UGUk=s680-w680-h510-rw",
+    "lat": 33.5907,
+    "lon": -101.8885,
+    "name": "National Ranching Heritage Center",
+    "type": "museum"
+  },
+  {
+    "description": "Museum dedicated to WWII glider pilots and their history",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nocEJAi8Qq1L05_4Asb7JVvNDd85baN2-lqyDnHXTgSnMOzV1SecNS9E5DN9OVjz3GgvVnhtygCou-il_F53AgEmlInkZWG4ES34O4vCX_GTx1WvcMJ6KpGZ8P2ef3-8GPHOGrS=s680-w680-h510-rw",
+    "lat": 33.6622,
+    "lon": -101.8233,
+    "name": "Silent Wings Museum",
+    "type": "museum"
+  },
+  {
+    "description": "Archaeological site and nature preserve with trails and history exhibits",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/8a/13/2b/photo2jpg.jpg?w=1200&h=-1&s=1",
+    "lat": 33.6195,
+    "lon": -101.8852,
+    "name": "Lubbock Lake Landmark",
+    "type": "historic"
+  },
+  {
+    "description": "Local amusement park with rides and family-friendly attractions",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Joyland_Lubbock_TX_entrance_DSCN8529.JPG/1200px-Joyland_Lubbock_TX_entrance_DSCN8529.JPG",
+    "lat": 33.6053,
+    "lon": -101.8475,
+    "name": "Joyland Amusement Park",
+    "type": "entertainment"
+  },
+  {
+    "description": "Dedicated area in Mackenzie Park for observing prairie dogs in their habitat",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nprrbpZOjTJIL2udFbLqWoTB23tctjr-WX125FiZqUoTLd_T_YWDRAzxUg7ifA-jw1TfPl_CXhLBDaSABck5ocPPRZ5PIHn205aJAKWFmZI5Yo3Z8lky1YowigwYr4t-HJqQilo=s680-w680-h510-rw",
+    "lat": 33.5855,
+    "lon": -101.8765,
+    "name": "Prairie Dog Town",
+    "type": "nature"
+  },
+  {
+    "description": "Large public park with trails, disc golf, and access to Joyland and Prairie Dog Town",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npo8hLc6zvsnFqWTZluzH8zTLn4eDPmV5keWEi47ngOnTJfVT2_vjuWwaQzWITtqEOJ3gMDFi49M7j1SontaOsxDzc11GECif-r0QcJY1Z6hPJ3RdX_AZVTX08w0aeLrzAPEry0=s680-w680-h510-rw",
+    "lat": 33.5886,
+    "lon": -101.8711,
+    "name": "Mackenzie Park",
+    "type": "park"
+  },
+  {
+    "description": "Historic theater known for live music and performances in the Depot District",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNLzCFCCffRrCi_womV8w1hcSNCcOiHpPkE44h1=s680-w680-h510-rw",
+    "lat": 33.5771,
+    "lon": -101.8482,
+    "name": "Cactus Theater",
+    "type": "entertainment"
+  },
+  {
+    "description": "Museum featuring over 100 historic windmills and wind energy exhibits",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrM8iitityGOCNvgV_5OMfXeLkLVREpy9Ac87Hiv5t8Y-k1wpeR4mG8hH0aWbdoPcWEpLnDAnlLDOxEXYAV6YnpagjyTZIcPZ-y3D9Do4Lu3ofmJkZ5VC9eOO2GP2AJ19NdxDFG=s680-w680-h510-rw",
+    "lat": 33.5914,
+    "lon": -101.8109,
+    "name": "American Windmill Museum",
+    "type": "museum"
+  },
+  {
+    "description": "Historic museum chronicling the life, death, and legacy of President John F. Kennedy",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrCeIH1zdWgxVUqDTjzmYo7vU3dSU2a8L8LA9dwZcjEpoe4A6Xw_IWNDhR7quC0NbwMJ1VQ-Fbh9sbcCbs52dxkv8yyey9koXocyKfAzfV0G4Mtxu0G-mdapmoadQyysN3KYXU9fQ=s680-w680-h510-rw",
+    "lat": 32.7791,
+    "lon": -96.8088,
+    "name": "The Sixth Floor Museum at Dealey Plaza",
+    "type": "museum"
+  },
+  {
+    "description": "Observation deck offering panoramic views of the Dallas skyline",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqY6gZuYfpSuki0E5r6YV_d2MrpXkSX8wxPqEcJxTVVyhMpLKhMt1nw6_lHMpN2LGQyIE_MASIwTbXYINfJPNF4rHIGoUDwMwFIzX7UI-d4S4_z3-H4XBz1MpHGFohRPcjL_yr_=s680-w680-h510-rw",
+    "lat": 32.7757,
+    "lon": -96.8094,
+    "name": "Reunion Tower",
+    "type": "scenic"
+  },
+  {
+    "description": "Sprawling botanical garden with seasonal displays and scenic lake views",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqy_0aye_iRBuO8uwTiFF4Zu18Ns-ny1PrXMooPiJy_xU1sk_13gQEWA1k_hKp02xuiGylw8YGZ6Pk8rN5Fl1z3UqwPdDC2IkkDfR0M9biCKhO3ImkFi_E-3TxmZIw9S-frA8dwpg=s680-w680-h510-rw",
+    "lat": 32.8216,
+    "lon": -96.7166,
+    "name": "Dallas Arboretum and Botanical Garden",
+    "type": "garden"
+  },
+  {
+    "description": "One of the largest art museums in the US with global collections",
+    "image_url": "https://www.dallasartsdistrict.org/wp-content/uploads/DAD_VisualArts_DMA_01.jpg",
+    "lat": 32.7876,
+    "lon": -96.8009,
+    "name": "Dallas Museum of Art",
+    "type": "museum"
+  },
+  {
+    "description": "Urban park built over a freeway, hosting events, food trucks, and green space",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/6488c7396092834fa8977799/1706647762213-WZSHYXLDTHQR8WNZP7UE/PartyInThePark-NRehlander-145.jpg",
+    "lat": 32.7892,
+    "lon": -96.8015,
+    "name": "Klyde Warren Park",
+    "type": "park"
+  },
+  {
+    "description": "Popular spot for jogging, biking, kayaking, and birdwatching",
+    "image_url": "https://t3.ftcdn.net/jpg/07/79/88/54/360_F_779885451_7dbF3PPpkuULA1U40hIStXFda3yDuKJX.jpg",
+    "lat": 32.8237,
+    "lon": -96.7293,
+    "name": "White Rock Lake Park",
+    "type": "nature"
+  },
+  {
+    "description": "Home of the Dallas Cowboys, known for its massive retractable roof and screen",
+    "image_url": "https://s7d2.scene7.com/is/image/TWCNews/ATT_Stadium_AP",
+    "lat": 32.7473,
+    "lon": -97.0945,
+    "name": "AT&T Stadium (in nearby Arlington)",
+    "type": "sports"
+  },
+  {
+    "description": "Aquarium featuring marine life, rainforest animals, and educational exhibits",
+    "image_url": "https://d2ph4mkq4pd4sb.cloudfront.net/famplifiedimage_951713639652742.jpg",
+    "lat": 32.7837,
+    "lon": -96.8054,
+    "name": "Dallas World Aquarium",
+    "type": "aquarium"
+  },
+  {
+    "description": "World-famous theme park resort with rides, entertainment, and Disney attractions",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Cinderella_Castle_at_Magic_Kingdom.jpg",
+    "lat": 28.3852,
+    "lon": -81.5639,
+    "name": "Walt Disney World",
+    "type": "theme_park"
+  },
+  {
+    "description": "Large subtropical wilderness known for airboat tours, wildlife, and wetlands",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Everglades_National_Park.jpg",
+    "lat": 25.2866,
+    "lon": -80.8987,
+    "name": "Everglades National Park",
+    "type": "national_park"
+  },
+  {
+    "description": "NASA visitor complex featuring rockets, astronaut exhibits, and launch experiences",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Kennedy_Space_Center_Visitor_Complex.jpg",
+    "lat": 28.5729,
+    "lon": -80.6490,
+    "name": "Kennedy Space Center",
+    "type": "space_center"
+  },
+  {
+    "description": "Historic entertainment district famous for nightlife, beaches, and Art Deco architecture",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Miami_Beach_FL.jpg",
+    "lat": 25.7826,
+    "lon": -80.1341,
+    "name": "South Beach",
+    "type": "beach"
+  },
+  {
+    "description": "Historic Spanish fortress and national monument in St. Augustine",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Castillo_de_San_Marcos.jpg",
+    "lat": 29.8988,
+    "lon": -81.3118,
+    "name": "Castillo de San Marcos",
+    "type": "historical_site"
+  },
+  {
+    "description": "Popular wildlife park known for alligators, shows, and Florida animal exhibits",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gatorland_Entrance.jpg",
+    "lat": 28.3555,
+    "lon": -81.4020,
+    "name": "Gatorland",
+    "type": "wildlife_park"
+  },
+  {
+    "description": "Crystal-clear spring park famous for glass-bottom boat rides and kayaking",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Silver_Springs_Florida.jpg",
+    "lat": 29.2169,
+    "lon": -82.0573,
+    "name": "Silver Springs State Park",
+    "type": "state_park"
+  },
+  {
+    "description": "Famous Florida Keys destination known for coral reefs, diving, and ocean activities",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Key_Largo.jpg",
+    "lat": 25.0865,
+    "lon": -80.4473,
+    "name": "Key Largo",
+    "type": "island"
+  },
+  {
+    "description": "Beautiful Gulf Coast beach destination known for white sand and sunsets",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Clearwater_Beach_Florida.jpg",
+    "lat": 27.9772,
+    "lon": -82.8270,
+    "name": "Clearwater Beach",
+    "type": "beach"
+  },
+  {
+    "description": "Iconic southernmost Florida destination famous for nightlife, sunsets, and history",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Key_West_Sunset.jpg",
+    "lat": 24.5551,
+    "lon": -81.7800,
+    "name": "Key West",
+    "type": "island"
+  }
+]
