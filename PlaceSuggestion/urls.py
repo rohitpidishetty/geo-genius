@@ -19,9 +19,11 @@ from django.urls import path
 from location_suggestor.views import suggest
 from location_suggestor.views import search
 from location_suggestor.views import register
+from location_suggestor.views import variable_suggest
 
 urlpatterns = [
     path('location/', suggest, name='suggest'),
+    path('variable_suggest/', variable_suggest, name='variable_suggest'),
     path('search/', search, name='search'),
     path('register/', register, name='register'),
 ]
