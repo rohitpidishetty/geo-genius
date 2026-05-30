@@ -47,7 +47,39 @@ def suggest(req):
     dispatch_payload = []
     for coord in data:
       dist = haversine_formula(curr_lat, curr_lon, coord['lat'], coord['lon'])
-      if(dist <= 70):
+      if(dist <= 7):
+        coord.update({'distance': f"{round(dist, 1)} km", 'measure': dist})
+        dispatch_payload.append(coord)
+    dispatch_payload = sorted(dispatch_payload, key = lambda a: a['measure'])
+
+  return JsonResponse({"suggest": dispatch_payload})
+
+
+
+@csrf_exempt
+def variable_suggest(req):
+  if req.method == "GET":
+    lat = req.GET.get('lat')
+    lon = req.GET.get('lon')
+    km = int(req.GET.get('km'))
+    curr_lat = float(lat)
+    curr_lon = float(lon)
+
+    def haversine_formula(lat1, lon1, lat2, lon2):
+      R = 6371.0
+      phi1 = math.radians(lat1)
+      phi2 = math.radians(lat2)
+      delta_phi = math.radians(lat2 - lat1)
+      delta_lambda = math.radians(lon2 - lon1)
+      a = math.sin(delta_phi / 2)**2 + math.cos(phi1) * math.cos(phi2) * math.sin(delta_lambda / 2)**2
+      c = 2 * math.atan2(math.sqrt(a), math.sqrt(1 - a))
+      distance = R * c
+      return distance
+
+    dispatch_payload = []
+    for coord in data:
+      dist = haversine_formula(curr_lat, curr_lon, coord['lat'], coord['lon'])
+      if(dist <= km):
         coord.update({'distance': f"{round(dist, 1)} km", 'measure': dist})
         dispatch_payload.append(coord)
     dispatch_payload = sorted(dispatch_payload, key = lambda a: a['measure'])
