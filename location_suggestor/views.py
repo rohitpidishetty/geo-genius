@@ -61,7 +61,7 @@ def variable_suggest(req):
   if req.method == "GET":
     lat = req.GET.get('lat')
     lon = req.GET.get('lon')
-    km = int(req.GET.get('km'))
+    km = int(req.GET.get('km').split(".")[0].strip())
     curr_lat = float(lat)
     curr_lon = float(lon)
 
