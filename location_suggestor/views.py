@@ -24,7 +24,7 @@ if not firebase_admin._apps:
 
 ref = db.reference('/')
 data = (ref.get())
-# This method is depricated in newer versions of Yaari 
+# This method is deprecated in newer versions of Yaari 
 @csrf_exempt
 def suggest(req):
   if req.method == "GET":
