@@ -1,4 +1,3 @@
-# Create your views here.
 from django.shortcuts import render
 from django.http import JsonResponse
 import json
@@ -20,13 +19,8 @@ if not firebase_admin._apps:
       'databaseURL': 'https://yaari-dba-default-rtdb.firebaseio.com/'
   })
 
-
-
 ref = db.reference('/')
 data = (ref.get())
-
-
-
 
 @csrf_exempt
 def variable_suggest(req):
@@ -58,7 +52,6 @@ def variable_suggest(req):
 
   return JsonResponse({"suggest": dispatch_payload})
 
-
 @csrf_exempt
 def search(req):
   if req.method == "GET":
@@ -69,9 +62,7 @@ def search(req):
     for coord in data:
       if(coord['lat'] == curr_lat and coord['lon'] == curr_lon):
         return JsonResponse({"present": True})
-
   return JsonResponse({"present": False})
-
 
 @csrf_exempt
 def register(req):
